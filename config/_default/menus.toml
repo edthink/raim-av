@@ -9,7 +9,12 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
+  name = "About"
+  url = "contact"
+  weight = 10
+
+[[main]]
+  name = "Blog"
   url = "post"
   weight = 20
 
@@ -28,7 +33,3 @@
   url = "publication"
   weight = 50
 
-[[main]]
-  name = "Contact"
-  url = "contact"
-  weight = 60
