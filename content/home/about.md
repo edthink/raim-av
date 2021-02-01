@@ -20,5 +20,7 @@ The project will focus on two settings - in the West Midlands, UK and Winnipeg, 
 To find out more about the project, please see our [About]({{< relref "/about" >}}) page, or about us through the [Project Team]({{< relref "/people" >}}) page.
 
 {{< figure library="true" src="leeds_icon.png">}}
+
 {{< figure library="true" src="image.um_logo.png" >}}
+
 {{< figure library="true" src="ucl_icon.jpg">}}
