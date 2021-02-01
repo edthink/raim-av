@@ -18,4 +18,4 @@ advanced:
 ---
 
 <br>
-The RAIM research project is a British-Canadian collaboration to address how <em>autonomous vehicles can improve the lives of older travellers<\em>. We are based at the <em>University of Manitoba<\em>, Canada, and the <em>University of Leeds<\em> and <em>University College London<\em>, UK.
+The RAIM research project is a British-Canadian collaboration to address how <strong>autonomous vehicles can improve the lives of older travellers</strong>. We are based at the <strong>University of Manitoba</strong>, Canada, and the <strong>University of Leeds</strong> and <strong>University College London</strong>, UK.
