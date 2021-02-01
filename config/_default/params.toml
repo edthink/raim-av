@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "ocean"
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -84,7 +84,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "e.j.manley@leeds.ac.uk"
 #phone = "888 888 88 88"
 
 # Address
