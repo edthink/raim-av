@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Responsible Automation for Inclusive Mobility"
 subtitle: "RAIM"
-hero_media: welcome.jpg
+hero_media: joyce-romero-D7d7XTrTZOQ-unsplash.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
