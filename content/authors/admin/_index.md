@@ -11,11 +11,9 @@ role: Professor of Urban Analytics
 # Organizations/Affiliations
 organizations:
 - name: University of Leeds
-  url: ""
+  url: "https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
 interests:
 - Agent-based Modelling
 - Urban Mobility
@@ -52,8 +50,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Investigators
+# user_groups:
+# - Investigators
 ---
 
 Ed Manley is a Professor of Urban Analytics in the School of Geography, and member of the Centre for Spatial Analysis and Policy (CSAP) research cluster. He is affiliated with the Leeds Institute for Data Analytics (LIDA), he is a Turing Fellow at the Alan Turing Institute, and Honorary Professor at University College London (UCL). Ed joined Leeds from UCL in 2019, where he completed his Engineering Doctorate, before moving onto becoming Lecturer in Smart Cities and latterly Associate Professor at The Bartlett Centre for Advanced Spatial Analysis. Ed is an Associate Editor of the Applied Spatial Analysis and Policy journal, and chairs the GIScience Research Group at the Royal Geographical Society, where is a Fellow. 
