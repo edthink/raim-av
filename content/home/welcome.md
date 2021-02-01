@@ -6,8 +6,8 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
-subtitle: ""
+title: "Responsible Automation for Inclusive Mobility"
+subtitle: "RAIM"
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The RAIM project is a British-Canadian collaborative research project to address how autonomous vehicles can improve the lives of older travellers. We are based at the University of Manitoba, Canada, and the University of Leeds and University College London, UK.
