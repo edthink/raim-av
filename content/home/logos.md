@@ -16,9 +16,9 @@ title:
 subtitle:
 
 design:
-  columns: "3"
+  columns: "1"
   background:
-    image: ucl_icon.jpg
+    image: ucl_icon.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
