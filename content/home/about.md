@@ -17,4 +17,4 @@ The <strong>RAIM (Responsible Automation for Inclusive Mobility)</strong> projec
 
 The project will focus on two settings - in the West Midlands, UK and Winnipeg, Canada - where we will work closely with local people and partners. The project runs until 2023, and is funded by British (ESRC, EPSRC, MRC, AHRC) and Canadian (CIHR, SSHRC, NSERC) research councils under the Canada-UK Artificial Intelligence Initiative. 
 
-To find out more about the project, please see our [About]({{< relref "/about" >}}) page, or about us through the [Project Team]({{< relref "/people" >}}) page.
+To find out more about the project, please see our About page, or about us through the Project Team page.
