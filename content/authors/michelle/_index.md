@@ -15,7 +15,9 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 interests:
-- test
+- mobility and aging
+- driving and aging
+- quality of life in long-term care
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
