@@ -16,6 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 interests:
 My background is in urban geography and planning. My research focuses on mobility, health and everyday life in cities
+- Spatial analysis, statistics and small area estimation
+- Data science techniques: ‘big’ population, consumer and travel smart card data
+- Specialised GIScience with focus on regionalisation and surname geographies
+- Case-based methods: classification, cluster analysis, sequence analysis, geodemographics
+- Survey design and analysis
+- Bayesian inference
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
