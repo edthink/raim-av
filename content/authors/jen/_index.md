@@ -16,9 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 interests:
 - Spatial analysis, statistics and small area estimation
-- Data science techniques: ‘big’ population, consumer and travel smart card data
+- Data science techniques with ‘big’ population, consumer and travel smart card data
 - Specialised GIScience with focus on regionalisation and surname geographies
-- Case-based methods: classification, cluster analysis, sequence analysis, geodemographics
+- Case-based methods with classification, cluster analysis, sequence analysis, geodemographics
 - Survey design and analysis
 - Bayesian inference
 
