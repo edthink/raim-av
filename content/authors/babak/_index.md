@@ -49,3 +49,4 @@ highlight_name: false
 user_groups:
  - Investigators
 ---
+Babak Mehran is a Civil Engineering professor at the University of Manitoba and a professional engineer in Canada. Babak’s research interests include optimization of traffic operations and public transportation systems, traffic flow modelling and simulation, applications of autonomous and connected vehicles in traffic management, modelling and design of autonomous shared mobility services, transportation network resilience and reliability analysis, big data analytics and spatial data science, and applications of artificial intelligence in transportation operations planning. Babak is a member of Transportation Research Board’s Standing Committee on Passenger Intermodal Facilities - AP045 and co-chairs the Special Interest Group (SIG) C4: Traffic Safety and Analysis of the World Conference on Transport Research Society.
