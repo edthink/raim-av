@@ -8,7 +8,10 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Responsible Automation for Inclusive Mobility"
 subtitle: "RAIM"
-hero_media: josh-hild-umGS5qrwW_Y-unsplash.jpg
+# hero_media: josh-hild-umGS5qrwW_Y-unsplash.jpg
+hero_media: um_logo2.png
+hero_media: leeds_icon.png
+hero_media: ucl_icon.jpeg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -18,4 +21,4 @@ advanced:
 ---
 
 <br>
-The RAIM research project is a British-Canadian collaboration to address how <strong>autonomous vehicles can improve the lives of older travellers</strong>. We are based at the <strong>University of Manitoba</strong>, Canada, and the <strong>University of Leeds</strong> and <strong>University College London</strong>, UK.
+The RAIM research project is a British-Canadian collaboration to address how <strong>autonomous vehicles can improve the lives of older travelers</strong>. We are based at the <strong>University of Manitoba</strong>, Canada, and the <strong>University of Leeds</strong> and <strong>University College London</strong>, UK.
