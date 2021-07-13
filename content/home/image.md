@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: mick-tinbergen-Bydec6l9Dn4-unsplash.jpg
+    image: natanael-vieira-464gsOs8iYQ-unsplash.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
