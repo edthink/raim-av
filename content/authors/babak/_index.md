@@ -6,7 +6,7 @@ title: Babak Mehran
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
