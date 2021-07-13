@@ -9,9 +9,7 @@ weight: 10  # Order that this section will appear.
 title: "Responsible Automation for Inclusive Mobility"
 subtitle: "RAIM"
 # hero_media: josh-hild-umGS5qrwW_Y-unsplash.jpg
-hero_media: um_logo2.png
-hero_media: leeds_icon.png
-hero_media: ucl_icon.jpeg
+hero_media: combinelogo.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
