@@ -6,16 +6,20 @@ title: Sharath M N
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow 
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: University of Manitoba
-  url: "https://babakmehran.com/team-member/sharath-mn/"
+  url: "https://scholar.google.com/citations?user=lu_57SAAAAAJ&hl=en"
 
 # Short bio (displayed in user profile at end of posts)
 interests:
-- Autonomous demand-responsive transit systems 
+- Mobility
+- Intelligent transportation systems
+- Motion planning of autonomous land vehicles
+- Low-cost lane-level localization of land vehicles
+- Multi-attribute transportation problems
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -24,11 +28,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sharath.narasimhamurthy@umanitoba.ca'
+  link: 'mailto:Sharath.Narasimhamurthy@umanitoba.ca'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.in/citations?user=lu_57SAAAAAJ&hl=en
-
+  link: https://scholar.google.com/citations?user=lu_57SAAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -46,3 +49,5 @@ highlight_name: false
 user_groups:
  - Investigators
 ---
+
+Sharath is currently working with Dr. Babak Mehran as a postdoctoral research fellow in the Department of Civil Engineering, University of Manitoba, Canada. He is currently working on developing demand-responsive transit systems to enhance the mobility of the older-adults. The aim is to integrate a classical optimization technique (e.g., genetic algorithm) with a machine learning approach to solve this multi-attribute problem.
