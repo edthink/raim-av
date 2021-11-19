@@ -17,7 +17,7 @@ organizations:
 interests:
 - Machine Learning
 - Autonomus transportation planning and scheduling
-- Artificial Intelligence
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
