@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "Health, out-of-home activities and digital inclusion in later life: Implications for emerging mobility services"
 authors:
-- admin
-- Robert Ford
+- ffion
+- jens
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Transport & Health*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper focuses on the question of how digital technologies are differentially embedded in day-to-day practices and associated with mobility and health of older citizens. The motivation is to look for evidence that helps us anticipate opportunities and barriers of digital technologies and innovative transport services in enhancing independent living, social inclusion, health and well-being in ageing societies. Using the English Longitudinal Study of Ageing (ELSA), we identify six groups with different day-to-day leisure practices and find that the use of digital technology (Internet use, smart phones) is associated with higher frequencies of out-of-home activities. Barriers associated with lower levels of engagement include health-related restrictions, the same barriers that also prevent patronage of public transport. Although digital technology use has increased during the COVID-19 pandemic, lack of skills, access to equipment and health problems contribute to a continued Digital Divide. We conclude that the digitalisation of both public and transport services is unlikely to support independent living for all by itself and could indeed exacerbate existing inequalities. Instead, addressing issues of exclusion among less active, mobility-restricted groups require targeted service designs that respond to differential health and skills-related barriers in using digital technologies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: [https://www.sciencedirect.com/science/article/pii/S2214140521003418]
 url_code: ''
 url_dataset: ''
 url_poster: ''
