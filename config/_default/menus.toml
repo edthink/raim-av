@@ -13,10 +13,10 @@
   url = "about"
   weight = 10
 
-#[[main]]
-#  name = "Blog"
-#  url = "post"
-#  weight = 20
+[[main]]
+  name = "Surveys"
+  url = "survey"
+  weight = 20
 
 [[main]]
   name = "People"
