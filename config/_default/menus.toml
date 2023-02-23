@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Surveys"
-  url = "survey"
+  url = "surveys"
   weight = 20
 
 [[main]]
