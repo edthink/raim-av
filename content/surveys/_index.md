@@ -19,9 +19,9 @@ Further information on the privacy notice for participating in research at the U
 
 If you have any concerns with regard to the way your personal data is being processed or have a query with regard to the University of Leeds privacy Notice, please email riscrm@leeds.ac.uk.
 
-Please see our [Information Sheet](RAIM App Information Sheet (V2).pdf) for full details about this survey.
-Please see our [FAQs page](RAIM Smart Phone App Survey FAQ.pdf) for information on downloading, installing and using the app.
-Please see our [Prizes and Compensation page](RAIM Survey compensation.pdf) for information about the prize draw attached to this survey.
+Please see our [Information Sheet](content/surveys/RAIM App Information Sheet (V2).pdf) for full details about this survey.
+Please see our [FAQs page](content/surveys/RAIM Smart Phone App Survey FAQ.pdf) for information on downloading, installing and using the app.
+Please see our [Prizes and Compensation page](content/surveys/RAIM Survey compensation.pdf) for information about the prize draw attached to this survey.
 
 Before contacting us please check the FAQs for the relevant survey as the answer to your query may be listed there.
 The RAIM Survey is being run by a research group at The Institute for Transport Studies at The University of Leeds.
