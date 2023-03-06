@@ -19,11 +19,11 @@ Further information on the privacy notice for participating in research at the U
 
 If you have any concerns with regard to the way your personal data is being processed or have a query with regard to the University of Leeds privacy Notice, please email [riscrm@leeds.ac.uk](mailto:riscrm@leeds.ac.uk).
 
-Please see our [Information Sheet](https://github.com/edthink/raim-av/blob/main/content/surveys/info_sheet.pdf) for full details about this survey.
+Please see our [Information Sheet](https://github.com/edthink/raim-av/blob/main/content/surveys/info_sheet.pdf?raw=true) for full details about this survey.
 
-Please see our [FAQs page](https://github.com/edthink/raim-av/blob/main/content/surveys/faqs.pdf) for information on downloading, installing and using the app.
+Please see our [FAQs page](https://github.com/edthink/raim-av/blob/main/content/surveys/faqs.pdf?raw=true) for information on downloading, installing and using the app.
 
-Please see our [Prizes and Compensation page](https://github.com/edthink/raim-av/blob/main/content/surveys/compensation.pdf) for information about the prize draw attached to this survey.
+Please see our [Prizes and Compensation page](https://github.com/edthink/raim-av/blob/main/content/surveys/compensation.pdf?raw=true) for information about the prize draw attached to this survey.
 
 Before contacting us please check the FAQs for the relevant survey as the answer to your query may be listed there.
 
