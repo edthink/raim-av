@@ -11,8 +11,12 @@ The survey will collect information on travel choices, including how often older
 
 The RAIM Mobile Phone App Survey will collect information on all the trips taken by an individual through an app loaded onto the participant’s smartphone. 
 Taking part means allowing us to track your travel for up to 6 months. We will track travel anonymously and automatically by people like yourself downloading a smartphone app that collects data. The app collects data on where you are, what time you travel and what types of transport you use. You should travel as you normally would and not feel pressure to travel by a particular type of transport – there are no right or wrong ways to travel.
-To take part you need to download the RAIM app from the App Store and use the code RAIM23. When you register in the app there is a user consent form and we will ask you to fill out a short survey. This is voluntary and will ask about your, gender, age, your household and household income, ethnicity, your job, education, how frequently you travel, access to a travel pass, general health and how often you take part in social activities. To take part in the Smartphone App Survey see our Registration page.
-Privacy Notice
+
+To take part you need to download the RAIM app from the App Store and use the code RAIM23. When you register in the app there is a user consent form and we will ask you to fill out a short survey. This is voluntary and will ask about your, gender, age, your household and household income, ethnicity, your job, education, how frequently you travel, access to a travel pass, general health and how often you take part in social activities. To register, please see the [Registration sheet](https://github.com/edthink/raim-av/blob/main/content/surveys/registration.pdf?raw=true).
+
+
+#### Privacy Notice
+
 More information on how your data is used by researchers at the University of Leeds can be found in the University of Leeds privacy notice: https://ris.leeds.ac.uk/privacy-notice/
 
 Further information on the privacy notice for participating in research at the University of Leeds is available from: https://dataprotection.leeds.ac.uk/research-participant-privacy-notice/
