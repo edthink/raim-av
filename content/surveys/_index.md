@@ -15,7 +15,7 @@ Taking part means allowing us to track your travel for up to 6 months. We will t
 To take part you need to download the RAIM app from the App Store and use the code RAIM23. When you register in the app there is a user consent form and we will ask you to fill out a short survey. This is voluntary and will ask about your, gender, age, your household and household income, ethnicity, your job, education, how frequently you travel, access to a travel pass, general health and how often you take part in social activities. To register, please see the [Registration sheet](https://github.com/edthink/raim-av/blob/main/content/surveys/registration.pdf?raw=true).
 
 
-#### Privacy Notice
+# Privacy Notice
 
 More information on how your data is used by researchers at the University of Leeds can be found in the University of Leeds privacy notice: https://ris.leeds.ac.uk/privacy-notice/
 
